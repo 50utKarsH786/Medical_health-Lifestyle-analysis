@@ -158,7 +158,7 @@ medical-health-analytics/
 ### 1️⃣ Demographic Overview Dashboard
 This 6-panel dashboard provides a comprehensive snapshot of key demographic and health metrics across the population:
 
-> Image omitted until the file is available in the repository.
+![Demographic Overview Dashboard](https://github.com/50utKarsH786/Medical_health-Lifestyle-analysis/raw/main/eda_demographics.png)
 
 **Key Insights:**
 - **Age Distribution**: Mean age of 43.7 years with fairly uniform spread across age groups (20-70 years)
@@ -171,7 +171,7 @@ This 6-panel dashboard provides a comprehensive snapshot of key demographic and 
 
 ### 2️⃣ BMI Category Analysis
 
-> Image omitted until the file is available in the repository.
+![BMI Category Analysis](https://github.com/50utKarsH786/Medical_health-Lifestyle-analysis/raw/main/bmi_analysis.png)
 
 **Distribution Insights:**
 - **Normal Weight** dominates with 2,632 individuals (44.1%)
@@ -188,7 +188,7 @@ This 6-panel dashboard provides a comprehensive snapshot of key demographic and 
 
 ### 3️⃣ Pairplot: Key Health Variables by Chronic Disease Status
 
-> Image omitted until the file is available in the repository.
+![Pairplot - Health Variables by Chronic Disease Status](https://github.com/50utKarsH786/Medical_health-Lifestyle-analysis/raw/main/pairplot_chronic_disease.png)
 
 **Key Observations:**
 - **Blue dots (No Chronic Disease)** and **Red dots (Yes Chronic Disease)** show distinct clustering patterns
