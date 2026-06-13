@@ -84,8 +84,7 @@ medical-health-analytics/
 └── outputs/
     ├── eda_demographics.png
     ├── bmi_analysis.png
-    ├── pairplot_chronic_disease.png
-    └── model_comparison.png
+    └── pairplot_chronic_disease.png
 ```
 
 ---
