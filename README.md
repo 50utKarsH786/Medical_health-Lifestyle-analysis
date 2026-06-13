@@ -19,7 +19,7 @@
 
 ## 📌 Project Overview
 
-This project delivers a **comprehensive, production-grade data science pipeline** on a synthetic population health dataset. The analysis covers everything from raw data ingestion to machine learning models for predictive healthcare analytics.
+This project delivers a **comprehensive, production-grade data science pipeline** on a synthetic population health dataset. The analysis covers everything from raw data ingestion to machine learning and business insights.
 
 The goal: extract clinically meaningful insights from lifestyle and biometric data, build predictive models for health outcomes, and translate findings into **actionable public health recommendations**.
 
@@ -159,7 +159,7 @@ medical-health-analytics/
 ### 1️⃣ Demographic Overview Dashboard
 This 6-panel dashboard provides a comprehensive snapshot of key demographic and health metrics across the population:
 
-![Demographic Overview Dashboard](https://github.com/50utKarsH786/Medical_health-Lifestyle-analysis/raw/main/outputs/eda_demographics.png)
+> Image omitted until the file is available in the repository.
 
 **Key Insights:**
 - **Age Distribution**: Mean age of 43.7 years with fairly uniform spread across age groups (20-70 years)
@@ -172,7 +172,7 @@ This 6-panel dashboard provides a comprehensive snapshot of key demographic and 
 
 ### 2️⃣ BMI Category Analysis
 
-![BMI Category Analysis](https://github.com/50utKarsH786/Medical_health-Lifestyle-analysis/raw/main/outputs/bmi_analysis.png)
+> Image omitted until the file is available in the repository.
 
 **Distribution Insights:**
 - **Normal Weight** dominates with 2,632 individuals (44.1%)
@@ -189,7 +189,7 @@ This 6-panel dashboard provides a comprehensive snapshot of key demographic and 
 
 ### 3️⃣ Pairplot: Key Health Variables by Chronic Disease Status
 
-![Pairplot - Health Variables by Chronic Disease Status](https://github.com/50utKarsH786/Medical_health-Lifestyle-analysis/raw/main/outputs/pairplot_chronic_disease.png)
+> Image omitted until the file is available in the repository.
 
 **Key Observations:**
 - **Blue dots (No Chronic Disease)** and **Red dots (Yes Chronic Disease)** show distinct clustering patterns
